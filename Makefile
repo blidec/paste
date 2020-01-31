@@ -8,4 +8,4 @@ all:
 	@echo "  clean           - remove intermediate files"
 
 lint:
-    flake8 --exclude=.tox
+	flake8 --exclude=.tox
